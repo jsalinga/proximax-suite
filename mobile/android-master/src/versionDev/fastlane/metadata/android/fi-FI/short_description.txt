@@ -1,1 +1,0 @@
-Nextcloud kehittäjä-äppi on katsaus kehityksestä ja voidaan asentaa rinnalle
